@@ -7,4 +7,4 @@ I find that Pyglet is very difficult to learn, in part due to a lack of usage. T
 I hope someone can find some use for it.
 
 # Requirements
-It was made in Python 3, and requires Pyglet. No other requirements.
+It requires Python 3 and Pyglet 1.3.2
